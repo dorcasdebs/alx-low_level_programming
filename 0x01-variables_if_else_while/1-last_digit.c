@@ -3,7 +3,7 @@
 #include <time.h>
 /**
  * main - entry point
- * Description - prints last digit of number and compares to 5
+ * Description - prints last digit of number
  * Return: always 0
  */
 
@@ -22,7 +22,7 @@ int main(void)
 	{
 		printf("%d is negative\n", n);
 	}
-	else
+	else if (n > 0)
 	{
 		printf("%d is positive\n", n);
 	}
