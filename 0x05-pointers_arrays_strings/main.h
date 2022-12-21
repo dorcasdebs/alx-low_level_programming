@@ -1,6 +1,9 @@
 #ifndef MAIN_H
 #define MAIN_H
-#include <stdlib.h>
+/**
+ * int prototypes()
+ * void prototypes()
+ */
 
 0. void reset_to_98(int *n);
 
@@ -25,3 +28,5 @@
 10. int _atoi(char *s);
 
 11. int _putchar(char c);
+
+#endif
