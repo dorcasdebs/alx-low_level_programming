@@ -1,9 +1,5 @@
 #ifndef MAIN_H
 #define MAIN_H
-/**
- * int prototypes()
- * void prototypes()
- */
 
 0. void reset_to_98(int *n);
 
